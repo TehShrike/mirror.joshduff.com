@@ -97,6 +97,10 @@ In "The Lives of a Cell," Lewis Thomas wrote about termites building arches:
 
 One of the remarkable discoveries of recent times is that complex behavior by a group of individuals requires only that each individual follow simple rules, and the collective behavior of the group can display facets and filigrees nowhere apparent in those rules. Here are three simple rules:
 
+- Each individual shall steer toward the average position of its neighbors.
+- Each individual shall adjust its speed to match its neighbors.
+- Each individual shall endeavor to not bump into anything.
+
 With a group of individuals each following these rules, we observe the simple but beautiful and graceful flocking patterns of birds and schools of fish.
 
 Simulation is the main tool of complexity investigation. One of the better known simulations is "Sugarscape," which became noted over the past 5 years by revealing that complex societal behavior could emerge from a small number of individual behavioral rules alongside simple genetic characteristics.
@@ -207,9 +211,7 @@ When you do this—when you do battle with the duende—you might find a gift, a
 
 Duende, poetry, and perhaps life itself and life in our works of artifice are denizens of the boundary between order and chaos. When we look too deeply into chaos for inspiration, we find only nonsense; when we look too deeply into order for completion and closure, we find only the botfly of boredom and the disease he carries: failure and deathlike morphology.
 
-Such an interesting place is the border between order and chaos that
-
-Dee Hock coined a word for it: chaord. His work from the mid-1960s has focused on how to replace outworn hierarchical, command-and-control organizations and what to replace them with. Command-and-control systems are based on the need for control, predictability, and order, things that Stuart Kauffman says have no real place in biologically based systems. What is needed is the vigor at the border of chaos and order.
+Such an interesting place is the border between order and chaos that Dee Hock coined a word for it: chaord. His work from the mid-1960s has focused on how to replace outworn hierarchical, command-and-control organizations and what to replace them with. Command-and-control systems are based on the need for control, predictability, and order, things that Stuart Kauffman says have no real place in biologically based systems. What is needed is the vigor at the border of chaos and order.
 
 Dee Hock reasoned that if organizations based on biological principles were to replace traditional command-and-control systems, then the basis for the self-organization and emergent behavior of a group of people would have to be the same as what forms the similar basis in life: a genetic code. In the Sugarscape simulation the genetic code is represented by local rules of behavior. A rule of behavior is like a principle. If a group shares the same principles (Dee Hock figured) then they would be able to work in emerging concert without the need for command and control.
 
@@ -275,6 +277,10 @@ The history of computing is rife with resource limitations—to the extent that 
 
 We have labored under three types of resource limitations:
 
+- Until the 1990s we did not routinely use computers with much more than a few dozen mips and 4–8 megabytes of RAM.
+- We typically run development projects undermanned by a factor of 2 or 3 and schedules about 50% too short.
+- We typically underspend per unit time by a factor of 2 or 3.
+
 Because of this we've managed to build only very small pieces of software, and even those are horribly error-ridden. Because of the apparent need to constantly innovate—or obsolete—hardware and to renew ourselves creatively, and because development has been done primarily in a landscape riddled by many isolated islands of similar or identical activities, we have, over the last 40–50 years, written the same code over and over. How many versions of Unix do we need? Do we really need the few dozen that we have? How about a text editor more advanced than Emacs? Are Word, Excel, and Powerpoint really the best possible programs in those categories? We've built these programs many times, and we don't get particularly better at them.
 
 We have gotten OK at building cathedrals—only we are building the same dozen or so over and over again. Our patterns are too limited and focused on efficiency, our vision outworn; sources of new language have dried up, and it's as if we are caught in a delirium of mere rephrasings.
@@ -286,6 +292,9 @@ Scarcity breeds a commodity or exchange economy. Until almost 1980, there were e
 ## Order and Modular Parts
 
 Programming language designers made one important breakthrough in being able to program effectively given insane resource limitations: the modular part—call it subroutine, procedure, function, method, or class. The idea has two parts:
+
+- Create a piece of code that performs some computation.
+- Create a way to run the code in several contexts.
 
 The first of these is the code that will be used over and over. Typically, what this code does depends on the local context. The second of these serves two purposes: One is to provide a way to inform the modular part about the local context; and the other is to provide a sort of description of the modular part—this is conveyed primarily by the modular part's name, but its arguments can sometimes provide additional descriptions, particularly for methods.
 
