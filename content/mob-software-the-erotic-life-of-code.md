@@ -93,7 +93,7 @@ In "The Lives of a Cell," Lewis Thomas wrote about termites building arches:
 
 > Termites are even more extraordinary in the way they seem to accumulate intelligence as they gather together. Two or three termites in a chamber will begin to pick up pellets and move them from place to place, but nothing comes of it; nothing is built. As more join in, they seem to reach a critical mass, a quorum, and the thinking begins. They place pellets atop pellets, then throw up columns and beautiful, curving, symmetrical arches, and the crystalline architecture of vaulted chambers is created. It is not known how they communicate with each other, how the chains of termites building one column know when to turn toward the crew of the adjacent column, or how, when the time comes, they manage the flawless joining of the arches. The stimuli that set them off at the outset, building collectively instead of shifting things about, may be pheromones released when they reach committee size. They react as if alarmed. They become agitated, excited, and then they begin working like artists.
 
-			"The Lives of a Cell," Lewis Thomas, (New York: Viking. 99 1974), p. 13.
+–"The Lives of a Cell," Lewis Thomas, (New York: Viking. 99 1974), p. 13.
 
 One of the remarkable discoveries of recent times is that complex behavior by a group of individuals requires only that each individual follow simple rules, and the collective behavior of the group can display facets and filigrees nowhere apparent in those rules. Here are three simple rules:
 
@@ -135,39 +135,39 @@ Listen for a minute to Federico Garcia Lorca at the end of the poem "Scream to R
 
 Meanwhile, meanwhile, oh!, meanwhile,
 
-			the blacks that take out the spittoons,
-
-			the boys that tremble beneath the pale terror of the directors,
-
-			the women drowned in mineral oils,
-
-			the crowd of hammer, violin, or cloud,
-
-			will scream although their brains may blow out on the wall,
-
-			will scream in front of the domes,
-
-			will scream maddened by fire,
-
-			will scream maddened by snow,
-
-			will scream with their heads full of excrement,
-
-			will scream like all the nights together,
-
-			will scream with a voice so torn
-
-			that the cities tremble like little girls
-
-			and the cities of oil and music break,
-
-			because we want our daily bread,
-
-			flower of the alder and threshed tenderness,
-
-			because we want to be fulfilled the will of the Earth
-
-			that gives its fruits for all.
+> the blacks that take out the spittoons,
+>
+> the boys that tremble beneath the pale terror of the directors,
+>
+> the women drowned in mineral oils,
+>
+> the crowd of hammer, violin, or cloud,
+>
+> will scream although their brains may blow out on the wall,
+>
+> will scream in front of the domes,
+>
+> will scream maddened by fire,
+>
+> will scream maddened by snow,
+>
+> will scream with their heads full of excrement,
+>
+> will scream like all the nights together,
+>
+> will scream with a voice so torn
+>
+> that the cities tremble like little girls
+>
+> and the cities of oil and music break,
+>
+> because we want our daily bread,
+>
+> flower of the alder and threshed tenderness,
+>
+> because we want to be fulfilled the will of the Earth
+>
+> that gives its fruits for all.
 
 This is a poem of duende—neither angel who dazzles but hovers above nor muse who whispers and dictates. Duende is a force that dares us—when we empty ourselves, approach ourselves—to see truly; taunts us into being serious; battles order. All that has black sounds has duende. Garcia Lorca says:
 
