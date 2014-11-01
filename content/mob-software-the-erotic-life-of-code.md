@@ -47,7 +47,7 @@ Fear of failure is fear of death. In fear of failure, we seek order.
 
 The Oxford English Dictionary defines "mob" this way, among others:
 
-			> A multitude or aggregation of persons regarded as not individually important.
+> A multitude or aggregation of persons regarded as not individually important.
 
 –Oxford English Dictionary, Second Edition, definition 4a, part 2
 
@@ -65,7 +65,7 @@ Ever compare poetry to newspaper articles? Maybe poetry isn't for everyone, but 
 
 This passage by the poet and playwright Harold Pinter is typical of how poets envision:
 
-			> The thing germinated and bred itself. It proceeded according to its own logic. What did I do? I followed the indications. I kept a sharp eye on the clues I found myself dropping. The writing arranged itself with no trouble into dramatic terms. The characters sounded in my ears—it was apparent to me what one would say and what would be the other's response, at any given point. It was apparent to me what they would not, ever, say, whatever one might wish.... When the thing was well cooked I began to form certain conclusions. The point is, however, that by that time the play was now its own world. It was determined by its own engendering image.
+> The thing germinated and bred itself. It proceeded according to its own logic. What did I do? I followed the indications. I kept a sharp eye on the clues I found myself dropping. The writing arranged itself with no trouble into dramatic terms. The characters sounded in my ears—it was apparent to me what one would say and what would be the other's response, at any given point. It was apparent to me what they would not, ever, say, whatever one might wish.... When the thing was well cooked I began to form certain conclusions. The point is, however, that by that time the play was now its own world. It was determined by its own engendering image.
 
 –"The Gift," page 144
 
@@ -77,13 +77,13 @@ This passage by the poet and playwright Harold Pinter is typical of how poets en
 
 ...built as the result of detailed plans? Christopher Alexander said this:
 
-			> Let us start by seeing how the great cathedrals, Chartres and Notre Dame, were made within a pattern language.... There were hundreds of people, each making his part within the whole, working, often for generations. At any given moment there was usually one master builder, who directed the overall layout...but each person in the whole had, in his mind, the same overall language. Each person executed each detail in the same general way, but with minor differences. The master builder did not need to force the design of the details down the builders' throats, because the builders themselves knew enough of the shared pattern language to make the details correctly, with their own individual flair.... We imagine, because of the distorted view of architecture we have learnt, that some great architect created these buildings, with a few marks of the pencil, worked out laboriously at the drawing board. The fact is that Chartres, no less than the simple farmhouse, was built by a group of men, acting within a common pattern language, deeply steeped in it of course. It was not made by "design" at the drawing board.
+> Let us start by seeing how the great cathedrals, Chartres and Notre Dame, were made within a pattern language.... There were hundreds of people, each making his part within the whole, working, often for generations. At any given moment there was usually one master builder, who directed the overall layout...but each person in the whole had, in his mind, the same overall language. Each person executed each detail in the same general way, but with minor differences. The master builder did not need to force the design of the details down the builders' throats, because the builders themselves knew enough of the shared pattern language to make the details correctly, with their own individual flair.... We imagine, because of the distorted view of architecture we have learnt, that some great architect created these buildings, with a few marks of the pencil, worked out laboriously at the drawing board. The fact is that Chartres, no less than the simple farmhouse, was built by a group of men, acting within a common pattern language, deeply steeped in it of course. It was not made by "design" at the drawing board.
 
 –"The Timeless Way of Building," page 216
 
 ...but software is different, right? Donald Eastlake said this in 1972 about the creation of the Incompatible Timesharing System at MIT:
 
-			> The ITS system is not the result of a human wave or crash effort. The system has been incrementally developed almost continuously since its inception. It is indeed true that large systems are never "finished".... In general, the ITS system can be said to have been designer implemented and user designed. The problem of unrealistic software design is greatly diminished when the designer is the implementor. The implementors' ease in programming and pride in the result is increased when he, in an essential sense, is the designer. Features are less likely to turn out to be of low utility if users are their designers and they are less likely to be difficult to use if their designers are their users.
+> The ITS system is not the result of a human wave or crash effort. The system has been incrementally developed almost continuously since its inception. It is indeed true that large systems are never "finished".... In general, the ITS system can be said to have been designer implemented and user designed. The problem of unrealistic software design is greatly diminished when the designer is the implementor. The implementors' ease in programming and pride in the result is increased when he, in an essential sense, is the designer. Features are less likely to turn out to be of low utility if users are their designers and they are less likely to be difficult to use if their designers are their users.
 
 –Donald Eastlake, 1972, quoted in "Hackers," page 127
 
@@ -91,7 +91,7 @@ This passage by the poet and playwright Harold Pinter is typical of how poets en
 
 In "The Lives of a Cell," Lewis Thomas wrote about termites building arches:
 
-			> Termites are even more extraordinary in the way they seem to accumulate intelligence as they gather together. Two or three termites in a chamber will begin to pick up pellets and move them from place to place, but nothing comes of it; nothing is built. As more join in, they seem to reach a critical mass, a quorum, and the thinking begins. They place pellets atop pellets, then throw up columns and beautiful, curving, symmetrical arches, and the crystalline architecture of vaulted chambers is created. It is not known how they communicate with each other, how the chains of termites building one column know when to turn toward the crew of the adjacent column, or how, when the time comes, they manage the flawless joining of the arches. The stimuli that set them off at the outset, building collectively instead of shifting things about, may be pheromones released when they reach committee size. They react as if alarmed. They become agitated, excited, and then they begin working like artists.
+> Termites are even more extraordinary in the way they seem to accumulate intelligence as they gather together. Two or three termites in a chamber will begin to pick up pellets and move them from place to place, but nothing comes of it; nothing is built. As more join in, they seem to reach a critical mass, a quorum, and the thinking begins. They place pellets atop pellets, then throw up columns and beautiful, curving, symmetrical arches, and the crystalline architecture of vaulted chambers is created. It is not known how they communicate with each other, how the chains of termites building one column know when to turn toward the crew of the adjacent column, or how, when the time comes, they manage the flawless joining of the arches. The stimuli that set them off at the outset, building collectively instead of shifting things about, may be pheromones released when they reach committee size. They react as if alarmed. They become agitated, excited, and then they begin working like artists.
 
 			"The Lives of a Cell," Lewis Thomas, (New York: Viking. 99 1974), p. 13.
 
@@ -119,13 +119,13 @@ Such phenomena point to an interesting locale in complex systems—the border be
 
 Stuart Kauffman, formerly of the Santa Fe Institute, wrote:
 
-			> It is a lovely hypothesis, with considerable supporting data, that genomic systems lie in the ordered regime near the phase transition to chaos. Were such systems too deeply into the frozen ordered regime, they would be too rigid to coordinate the complex sequences of genetic activities necessary for development. Were they too far into the gaseous chaotic regime, they would not be orderly enough.
+> It is a lovely hypothesis, with considerable supporting data, that genomic systems lie in the ordered regime near the phase transition to chaos. Were such systems too deeply into the frozen ordered regime, they would be too rigid to coordinate the complex sequences of genetic activities necessary for development. Were they too far into the gaseous chaotic regime, they would not be orderly enough.
 
 –"At Home in the Universe," page 26
 
 and
 
-			> ...cell networks achieve both stability and flexibility...by achieving a kind of poised state balanced on the edge of chaos.
+> ...cell networks achieve both stability and flexibility...by achieving a kind of poised state balanced on the edge of chaos.
 
 –"At Home in the Universe," page 86
 
@@ -177,31 +177,31 @@ This is a poem of duende—neither angel who dazzles but hovers above nor muse w
 
 Garcia Lorca says the duende
 
-			> will not approach at all if he does not see the possibility of death
+> will not approach at all if he does not see the possibility of death
 
 —"In Search of Duende," Garcia Lorca, page 162
 
 and
 
-			> we only know that he burns the blood like a poultice of broken glass, that he exhausts, that he rejects all the sweet geometry we have learned, that he smashes style.
+> we only know that he burns the blood like a poultice of broken glass, that he exhausts, that he rejects all the sweet geometry we have learned, that he smashes style.
 
 –"In Search of Duende," Garcia Lorca, page 51
 
 Fear of failure is the fear of death, the fear of duende. Christopher Alexander said,
 
-			> All of the Japanese arts recognize that, finally, you have to meet the fear of death in order to do anything—landscape painting, flower arrangements, and so on.
+> All of the Japanese arts recognize that, finally, you have to meet the fear of death in order to do anything—landscape painting, flower arrangements, and so on.
 
 –"Christopher Alexander: The Search for a New Paradigm in Architecture," Stephen Grabow, page 86
 
 Allen Ginsberg said that to be a poet you must abandon fear of failure by
 
-			> ...abandoning the glory of poetry and just settling down in the muck of your own mind...
+> ...abandoning the glory of poetry and just settling down in the muck of your own mind...
 
 –"The Gift," page 145
 
 When you do this—when you do battle with the duende—you might find a gift, a gift of talent or insight that will make you think, "Did I say that?" —"Did I do that?" Gifts like this are worth cultivating, even in the software world. Lewis Hyde wrote this in "The Gift":
 
-			> So long as the gift is not withheld, the creative spirit will remain a stranger to the economics of scarcity. Salmon, forest birds, poetry, symphonies, or Kula shells, the gift is not used up in use.
+> So long as the gift is not withheld, the creative spirit will remain a stranger to the economics of scarcity. Salmon, forest birds, poetry, symphonies, or Kula shells, the gift is not used up in use.
 
 –"The Gift," page 146
 
@@ -299,7 +299,7 @@ The failure has been analyzed thoroughly by both the ESA and software profession
 
 I quote from the report concerning a special feature which continued to run a calibration routine 50 seconds into the flight:
 
-			> The same requirement does not apply to Ariane 5, which has a different preparation sequence, and it was maintained for commonality reasons, presumably based on the view that, unless proven necessary, it was not wise to make changes in software which worked well on Ariane 4.
+> The same requirement does not apply to Ariane 5, which has a different preparation sequence, and it was maintained for commonality reasons, presumably based on the view that, unless proven necessary, it was not wise to make changes in software which worked well on Ariane 4.
 
 –Paris, 19 July 1996 "ARIANE 5: Flight 501 Failure Report by the Inquiry Board," The Chairman of the Board: Prof. J. L. LIONS
 
@@ -311,7 +311,7 @@ Moreover, we already seem to know this in some aspects of mainstream programming
 
 Let's listen to Christopher Alexander on the topic of modular parts:
 
-			> The details of a building cannot be made alive when they are made from modular parts.... And for the same reason, the details of a building cannot be made alive when they are drawn at a drawing board.
+> The details of a building cannot be made alive when they are made from modular parts.... And for the same reason, the details of a building cannot be made alive when they are drawn at a drawing board.
 
 –"The Timeless Way of Building," pp. 460–461
 
@@ -337,7 +337,7 @@ We find little or no code education. Typically a student will write a few dozen 
 
 A few years ago, the open source community posed a significant question—a question which has been drowned out in debates over licensing and the politics of open source. The question was:
 
-			> What if what once was scarce is now abundant?
+> What if what once was scarce is now abundant?
 
 Hidden in the premises of open source is the belief that perhaps it's acceptable to waste programmer time. Moreover, there are no time limits to open-source projects. With lots of people looking at the source code, it's easy to see how the quality of the resulting code could be a little higher. And with hackers always desperate to prove themselves wizards, it's easy to see how "customer support" could be a little better.
 
@@ -425,13 +425,13 @@ In the gift economy, the most empty individual is the wealthiest, being the most
 
 Listen to Lewis Hyde:
 
-			> ...the exploitation of the arts which we find in the twentieth century is without precedent. The particular manner in which radio, television, the movies, and the recording industry have commercialized song and drama is wholly new.... The more we allow such commodity art to define and control our gifts, the less gifted we will become, as individuals and as a society. The true commerce of art is a gift exchange, and where that commerce can proceed on its own terms we shall be heirs to the fruits of gift exchange:...to a creative spirit whose fertility is not exhausted in use, to the sense of plenitude which is that mark of all erotic exchange, to a storehouse of works that can serve as agents of transformation, and to a sense of an inhabitable world—an awareness...of our solidarity with whatever we take to be the source of our gifts, be it the community..., nature, or the gods. But none of these fruits will come to us where we have converted our arts to pure commercial enterprises.
+> ...the exploitation of the arts which we find in the twentieth century is without precedent. The particular manner in which radio, television, the movies, and the recording industry have commercialized song and drama is wholly new.... The more we allow such commodity art to define and control our gifts, the less gifted we will become, as individuals and as a society. The true commerce of art is a gift exchange, and where that commerce can proceed on its own terms we shall be heirs to the fruits of gift exchange:...to a creative spirit whose fertility is not exhausted in use, to the sense of plenitude which is that mark of all erotic exchange, to a storehouse of works that can serve as agents of transformation, and to a sense of an inhabitable world—an awareness...of our solidarity with whatever we take to be the source of our gifts, be it the community..., nature, or the gods. But none of these fruits will come to us where we have converted our arts to pure commercial enterprises.
 
 –"The Gift," pp 158–159
 
 Xenia involves emptying one's self, and along with this emptiness comes the duende and with it risk-taking, creation, diversity. The Chilean poet, Pablo Neruda, connected xenia and the duende in this story from his childhood in the southern frontier of Chile:
 
-			> I looked through the hole [in the fence] and saw a landscape like that behind our house, uncared for and wild. I moved back a few steps because I sensed vaguely that something was about to happen. All of a sudden a hand appeared—a tiny hand of a boy about my own age. By the time I came close again, the hand was gone, and in its place there was a marvellous white toy sheep.... I went into the house and brought out a treasure of my own: a pine cone, opened, full of odor and resin, which I adored. I set it down in the same spot and went off with the sheep.... Maybe this small and mysterious exchange of gifts remained inside me also, deep and indestructible, giving my poetry light.
+> I looked through the hole [in the fence] and saw a landscape like that behind our house, uncared for and wild. I moved back a few steps because I sensed vaguely that something was about to happen. All of a sudden a hand appeared—a tiny hand of a boy about my own age. By the time I came close again, the hand was gone, and in its place there was a marvellous white toy sheep.... I went into the house and brought out a treasure of my own: a pine cone, opened, full of odor and resin, which I adored. I set it down in the same spot and went off with the sheep.... Maybe this small and mysterious exchange of gifts remained inside me also, deep and indestructible, giving my poetry light.
 
 –"The Gift," pages 281–282
 
@@ -441,7 +441,7 @@ The postmodern life is one of stories and personae. Literary theory—the study 
 
 "Topos" is a term used in poetics and can be defined this way:
 
-			> a conventionalized expression or passage in text which comes to be used as a resource for the composition of additional texts
+> a conventionalized expression or passage in text which comes to be used as a resource for the composition of additional texts
 
 –The New Princeton Encyclopedia of Poetry and Poetics
 
@@ -455,7 +455,7 @@ The open-source community asked one question and answered it in a provocative wa
 
 With their licenses they have found a gate through which some of us have passed. Christopher Alexander said one very important thing that is relevant to us today:
 
-			> And yet the timeless way is not complete, and will not fully generate the quality without a name, until we leave the gate behind.
+> And yet the timeless way is not complete, and will not fully generate the quality without a name, until we leave the gate behind.
 
 –"The Timeless Way of Building," page 529
 
@@ -533,7 +533,7 @@ We can never move forward—we can never move forward—while the bulk of softwa
 
 The first Levittown—once called **Island Trees**—was a postwar innovation in low cost housing in which a potato patch on Long Island was turned into the first mass-produced housing tract. After the foundation was laid, specialized crews would descend on each lot one after another so fast that 18 houses were completed in the 8 to noon shift—one could say they used an especially brutal and efficient pattern language. Many lamented the approach. Peter Bacon Hales wrote of the criticism:
 
-			> The accusations against Levittown from the first focused on its relentless homogeneity, the cramped quarters of its interiors, and the raw, unfinished quality of its landscape.
+> The accusations against Levittown from the first focused on its relentless homogeneity, the cramped quarters of its interiors, and the raw, unfinished quality of its landscape.
 
 [–http://www.uic.edu/~pbhales/Levittown/](http://www.uic.edu/~pbhales/Levittown/), Peter Bacon Hales
 
@@ -545,13 +545,13 @@ Postwar Americans needed affordable housing near jobs to raise the first wave of
 
 Levittown relied on wood framing, but many other projects cast their designs literally in concrete. The Pruitt-Igoe apartments in St. Louis won architectural awards in the mid-1950s for low-cost housing design. But the two complexes were simply steel and concrete highrise warrens in the mold of the Swiss architect Le Corbusier who said
 
-			> a house is a machine to live in
+> a house is a machine to live in
 
 –"Cities of Tomorrow," Peter Hall, page 205
 
 and
 
-			> the design of cities is too important to be left to the citizens
+> the design of cities is too important to be left to the citizens
 
 –"Cities of Tomorrow," Peter Hall, page 207
 
