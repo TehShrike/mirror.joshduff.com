@@ -71,7 +71,7 @@ This passage by the poet and playwright Harold Pinter is typical of how poets en
 
 ...created by the single individual? Writers learn by workshopping. Every night across the country, writers sit in groups of 3 to 20, reading and critiquing each other's work. Not only are these professional writers but amateurs who simply want to improve their diaries. Steven Levy said this in "Hackers":
 
-		> Years earlier, Buckminster Fuller had developed the concept of synergy—the collective power, more than the sum of the parts, that comes of people and/or phenomena working together in a system—and Homebrew [a Bay Area computer club in the 1970s] was a textbook example of the concept at work. One person's idea would spark another person into embarking on a large project, and perhaps beginning a company to make a product based on the idea. Or, if someone came up with a clever hack to produce a random number generator on the Altair, he would give out the code so everyone could do it, and by the next meeting someone else would have devised a game that utilized the routine.
+> Years earlier, Buckminster Fuller had developed the concept of synergy—the collective power, more than the sum of the parts, that comes of people and/or phenomena working together in a system—and Homebrew [a Bay Area computer club in the 1970s] was a textbook example of the concept at work. One person's idea would spark another person into embarking on a large project, and perhaps beginning a company to make a product based on the idea. Or, if someone came up with a clever hack to produce a random number generator on the Altair, he would give out the code so everyone could do it, and by the next meeting someone else would have devised a game that utilized the routine.
 
 –"Hackers," Steven Levy, page 218
 
@@ -171,7 +171,7 @@ Meanwhile, meanwhile, oh!, meanwhile,
 
 This is a poem of duende—neither angel who dazzles but hovers above nor muse who whispers and dictates. Duende is a force that dares us—when we empty ourselves, approach ourselves—to see truly; taunts us into being serious; battles order. All that has black sounds has duende. Garcia Lorca says:
 
-		> The duende...is a power, not a work. It is a struggle, not a thought. I have heard an old maestro of the guitar say, "the duende is not in the throat; the duende climbs up through the soles of the feet." Meaning this: It is not a question of ability, but of true, living style, of blood, of the most ancient culture, of spontaneous creation.
+> The duende...is a power, not a work. It is a struggle, not a thought. I have heard an old maestro of the guitar say, "the duende is not in the throat; the duende climbs up through the soles of the feet." Meaning this: It is not a question of ability, but of true, living style, of blood, of the most ancient culture, of spontaneous creation.
 
 –"In Search of Duende," Garcia Lorca, page 49
 
@@ -221,7 +221,7 @@ The result was known as Visa International, and it still exists today, though no
 
 Dee Hock's ideas should sound very familiar. Building a cathedral is the shared purpose, and the builders—from the master builder down to the most insignificant member of the mob engaged in its construction—knew the elements: Nave, aisles, transepts, the great rose window in the west end, and the chapels round the east end. The builders shared a set of principles—the common pattern language. Alexander said:
 
-		> But still the power and beauty of the great cathedrals came mainly from the language which the master builder and his builders shared. The language was so coherent that anyone who understood the language well and devoted his whole life to the building of a single building, working at it slowly, piecemeal, shaping all the parts within the common pattern language, would be able to make a great work of art. The building grew slowly, magnificently, from the impact of the common pattern language from which it was made, guiding its individual parts, and the acts which created them, just as the genes inside the flower's seed guide and then generate the flower.
+> But still the power and beauty of the great cathedrals came mainly from the language which the master builder and his builders shared. The language was so coherent that anyone who understood the language well and devoted his whole life to the building of a single building, working at it slowly, piecemeal, shaping all the parts within the common pattern language, would be able to make a great work of art. The building grew slowly, magnificently, from the impact of the common pattern language from which it was made, guiding its individual parts, and the acts which created them, just as the genes inside the flower's seed guide and then generate the flower.
 
 –"The Timeless Way of Building," page 216
 
@@ -397,7 +397,7 @@ Gift economies are embedded within non-economic institutions like kinship, marri
 
 A gift has both economic and spiritual content. It is personal. In giving a gift the goal is to become as empty as possible. In "Gift and Commodity in Archaic Greece," Ian Morris wrote the following:
 
-		> The aim of the gift economy is accumulation for de-accumulation; the gift economy is above all a debt economy, where the actors strive to maximize outgoings. The system can be described as one of "alternating disequilibrium" where the aim is to never have debts "paid off" but to preserve a situation of personal indebtedness.
+> The aim of the gift economy is accumulation for de-accumulation; the gift economy is above all a debt economy, where the actors strive to maximize outgoings. The system can be described as one of "alternating disequilibrium" where the aim is to never have debts "paid off" but to preserve a situation of personal indebtedness.
 
 –"Gift and Commodity in Archaic Greece," Ian Morris
 
@@ -417,7 +417,7 @@ The gift and commodity economies have co-existed for millennia, generally with t
 
 The following quote illustrates the difficulty of co-existence as observed in 6th century BC Greece. In it, the Greek word xenia means "a bond of solidarity manifesting itself in an exchange of goods and services between individuals originating from separate social units." (Gabriel Herman, quoted in "Economy of the Unlost," page 13):
 
-		> For whereas money is concerned to change the status quo, gifts aim to sustain it. The profound conservatism of a gift economy secures its own continuance and moral prestige in two ways: First, by derogation of all that is not gift. We can see a deep distrust of money, trade, profit, commerce, and commercial persons pervading Greek socioeconomic attitudes from Homer's time through Aristotle's. "Commodity exchange was not an acceptable activity for a Greek." ["Gift and Commodity in Archaic Greece," Ian Morris]...At the same time, a gift economy likes to project its functions onto the cosmos...as if the rules of xenia represent the way things are for gods and men.
+> For whereas money is concerned to change the status quo, gifts aim to sustain it. The profound conservatism of a gift economy secures its own continuance and moral prestige in two ways: First, by derogation of all that is not gift. We can see a deep distrust of money, trade, profit, commerce, and commercial persons pervading Greek socioeconomic attitudes from Homer's time through Aristotle's. "Commodity exchange was not an acceptable activity for a Greek." ["Gift and Commodity in Archaic Greece," Ian Morris]...At the same time, a gift economy likes to project its functions onto the cosmos...as if the rules of xenia represent the way things are for gods and men.
 
 –"Economy of the Unlost," Anne Carson
 
@@ -563,7 +563,7 @@ The world, however, did not wait, but soon observed what followed on. Nature, th
 
 Let me finish by again quoting Peter Bacon Hales, art historian from the University of Illinois at Chicago, who wrote the following for the mob-infested World Wide Web:
 
-		> The raw, new quality of the landscape, too, didn't seem so awful to new renters and (a little later) owners, who knew that the trees and grass would quickly grow, and who understood the Levitt salesman's pitch promising opportunities to personalize the interior and exterior of your Levittown house. Life [magazine] ran a contest, seeking the best-decorated Levittown house, and the winner was a rather startling red-themed Mandarin-Revival Sino-Asian extravaganza. Over time, Levittown houses changed character, as their occupants rose in status and in economic wealth, and as families expanded and community standards of innovation and growth trickled from the home-improvement seminars at the Community Center and later the High School, out into the Saturday projects and summer vacation plans of Levittown residents. Today's heterogeneous Levittown is a testimony to the resilience of the community....
+> The raw, new quality of the landscape, too, didn't seem so awful to new renters and (a little later) owners, who knew that the trees and grass would quickly grow, and who understood the Levitt salesman's pitch promising opportunities to personalize the interior and exterior of your Levittown house. Life [magazine] ran a contest, seeking the best-decorated Levittown house, and the winner was a rather startling red-themed Mandarin-Revival Sino-Asian extravaganza. Over time, Levittown houses changed character, as their occupants rose in status and in economic wealth, and as families expanded and community standards of innovation and growth trickled from the home-improvement seminars at the Community Center and later the High School, out into the Saturday projects and summer vacation plans of Levittown residents. Today's heterogeneous Levittown is a testimony to the resilience of the community....
 
 [–http://www.uic.edu/~pbhales/Levittown/](http://www.uic.edu/~pbhales/Levittown/), Peter Bacon Hales
 
