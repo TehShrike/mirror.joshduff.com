@@ -70,7 +70,11 @@
 	<article>
 		<div>
 			{{#metadata.title}}
-				<h1>{{metadata.title}}</h1>
+				{{#metadata.source}}
+					<h1><a href="{{metadata.source}}">{{metadata.title}}</a></h1>
+				{{else}}
+					<h1>{{metadata.title}}</h1>
+				{{/metadata.source}}
 			{{/metadata.title}}
 			<div class="post-content">
 				{{{html}}}
