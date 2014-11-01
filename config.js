@@ -1,11 +1,11 @@
 noddityConfig = {
 	title: 'Noddity',
 	noddityRoot: window.location.pathname + 'content/',
-	editLink: 'https://github.com/TehShrike/noddity/edit/master/content/',
+	editLink: 'https://github.com/TehShrike/mirror.joshduff.com/edit/master/content/',
 	logo: 'logo.svg',
 	errorPage: '404.md',
 	pathPrefix: '#!/',
-	pagePathPrefix: 'post/',
+	pagePathPrefix: '',
 	debug: false,
 	sidebar: null
 }
