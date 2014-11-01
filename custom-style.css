@@ -1,0 +1,12 @@
+#sidebar {
+	display: none;
+}
+
+#main {
+	padding-left: 200px;
+	width: 800px;
+}
+
+#edit-post-link {
+	display: none;
+}
