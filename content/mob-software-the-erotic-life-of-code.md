@@ -179,7 +179,7 @@ Garcia Lorca says the duende
 
 > will not approach at all if he does not see the possibility of death
 
-—"In Search of Duende," Garcia Lorca, page 162
+–"In Search of Duende," Garcia Lorca, page 162
 
 and
 
