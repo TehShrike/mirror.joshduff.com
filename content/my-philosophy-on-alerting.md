@@ -4,17 +4,6 @@ title: My Philosophy on Alerting
 
 Author: Rob Ewaschuk <rob@infinitepigeons.org>
 
-- [Introduction](#introduction)
-- [Vernacular](#vernacular)
-- [Monitor for your users](#monitor-for-your-users)
-- [Cause-based alerts are bad (but-sometimes-necessary)](#cause-based-alerts-are-bad-but-sometimes-necessary)
-- [Alerting from the spout (or-beyond!)](#alerting-from-the-spout-or-beyond)
-- [Causes are still useful](#causes-are-still-useful)
-- [Tickets, Reports and Email](#tickets-reports-and-email)
-- [Playbooks](#playbooks)
-- [Tracking & Accountability](#tracking-accountability)
-- [You're being naïve!](#youre-being-naive)
-
 ## Summary
 
 When you are auditing or writing alerting rules, consider these things to keep your oncall rotation happier:
