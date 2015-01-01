@@ -1,4 +1,6 @@
-# [My story - going from morbid obesity to half the man I once was.](https://docs.google.com/document/d/1XRA5K0ZPnYbEc5mn3FrzgPYJACGZnq20HLQ3yoRu1so/pub)
+title: My story - going from morbid obesity to half the man I once was
+
+# [Source](https://docs.google.com/document/d/1XRA5K0ZPnYbEc5mn3FrzgPYJACGZnq20HLQ3yoRu1so/pub)
 
 Dear Reader;
 
