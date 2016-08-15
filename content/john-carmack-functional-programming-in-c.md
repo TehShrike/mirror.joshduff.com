@@ -19,7 +19,7 @@ C++ doesn't encourage functional programming, but it doesn't prevent you from do
 
 A pure function only looks at the parameters passed in to it, and all it does is return one or more computed values based on the parameters. It has no logical side effects. This is an abstraction of course; every function has side effects at the CPU level, and most at the heap level, but the abstraction is still valuable.
 
-It doesn't look at or update global state. it doesn't maintain internal state. It doesn't perform any IO. it doesn't mutate any of the input parameters. Ideally, it isn't passed any extraneous data â€“ getting an `allMyGlobals` pointer passed in defeats much of the purpose.
+It doesn't look at or update global state. it doesn't maintain internal state. It doesn't perform any IO. it doesn't mutate any of the input parameters. Ideally, it isn't passed any extraneous data — getting an `allMyGlobals` pointer passed in defeats much of the purpose.
 
 Pure functions have a lot of nice properties.
 
@@ -51,17 +51,17 @@ It doesn't even have to be all-or-nothing in a particular function. There is a c
 
 Avoiding the worst in a broader context is generally more important than achieving perfection in limited cases. If you consider the most toxic functions or systems you have had to deal with, the ones that you know have to be handled with tongs and a face shield, it is an almost sure bet that they have a complex web of state and assumptions that their behavior relies on, and it isn't confined to their parameters. Imposing some discipline in these areas, or at least fighting to prevent more code from turning into similar messes, is going to have more impact than tightening up some low-level math functions.
 
-The process of refactoring towards purity generally involves disentangling computation from the environment it operates in, which almost invariably means more parameter passing. This seems a bit curious â€“ greater verbosity in programming languages is broadly reviled, and functional programming is often associated with code size reduction.
+The process of refactoring towards purity generally involves disentangling computation from the environment it operates in, which almost invariably means more parameter passing. This seems a bit curious — greater verbosity in programming languages is broadly reviled, and functional programming is often associated with code size reduction.
 
-The factors that allow programs in functional languages to sometimes be more concise than imperative implementations are pretty much orthogonal to the use of pure functions â€” garbage collection, powerful built-in types, pattern matching, list comprehensions, function composition, various bits of syntactic sugar, etc. For the most part, these size reducers don't have much to do with being functional, and can also be found in some imperative languages.
+The factors that allow programs in functional languages to sometimes be more concise than imperative implementations are pretty much orthogonal to the use of pure functions — garbage collection, powerful built-in types, pattern matching, list comprehensions, function composition, various bits of syntactic sugar, etc. For the most part, these size reducers don't have much to do with being functional, and can also be found in some imperative languages.
 
 You should be getting irritated if you have to pass a dozen parameters into a function; you may be able to refactor the code in a manner that reduces the parameter complexity.
 
 The lack of any language support in C++ for maintaining purity is not ideal. If someone modifies a widely used foundation function to be non-pure in some evil way, everything that uses the function also loses its purity. This sounds disastrous from a formal systems point of view, but again, it isn't an all-or-nothing proposition where you fall from grace with the first sin. Large scale software development is unfortunately statistical.
 
-It seems like there is a sound case for a pure keyword in future C/C++ standards. There are close parallels with const â€“ an optional qualifier that allows compile time checking of programmer intention and will never hurt, and could often help, code generation. The D programming language [does offer a pure keyword](http://www.d-programming-language.org/function.html). Note their distinction between weak and strong purity â€“ you need to also have const input references and pointers to be strongly pure.
+It seems like there is a sound case for a pure keyword in future C/C++ standards. There are close parallels with const — an optional qualifier that allows compile time checking of programmer intention and will never hurt, and could often help, code generation. The D programming language [does offer a pure keyword](http://www.d-programming-language.org/function.html). Note their distinction between weak and strong purity — you need to also have const input references and pointers to be strongly pure.
 
-In some ways, a language keyword is over-restrictive â€” a function can still be pure even if it calls impure functions, as long as the side effects don't escape the outer function. Entire programs can be considered pure functional units if they only deal with command line parameters instead of random file system state.
+In some ways, a language keyword is over-restrictive — a function can still be pure even if it calls impure functions, as long as the side effects don't escape the outer function. Entire programs can be considered pure functional units if they only deal with command line parameters instead of random file system state.
 
 ## Object Oriented Programming
 
@@ -71,9 +71,9 @@ The "moving parts" are mutating states. Telling an object to change itself is le
 
 Class methods that can't be const are not pure by definition, because they mutate some or all of the potentially large set of state in the object. They are not thread safe, and the ability to incrementally poke and prod objects into unexpected states is indeed a significant source of bugs.
 
-Const object methods can still be technically pure if you don't count the implicit const this pointer against them, but many object are large enough to constitute a sort of global state all their own, blunting some of the clarity benefits of pure functions. Constructors can be pure functions, and generally should strive to be â€“ they take arguments and return an object.
+Const object methods can still be technically pure if you don't count the implicit const this pointer against them, but many object are large enough to constitute a sort of global state all their own, blunting some of the clarity benefits of pure functions. Constructors can be pure functions, and generally should strive to be — they take arguments and return an object.
 
-At the tactical programming level, you can often work with objects in a more functional manner, but it may require changing the interfaces a bit. At id we went over a decade with an idVec3 class that had a self-mutating `void Normalize()` method, but no corresponding `idVec3 Normalized() const` method. Many string methods were similarly defined as working on themselves, rather than returning a new copy with the operation performed on it â€“ `ToLowerCase()`, `StripFileExtension()`, etc.
+At the tactical programming level, you can often work with objects in a more functional manner, but it may require changing the interfaces a bit. At id we went over a decade with an idVec3 class that had a self-mutating `void Normalize()` method, but no corresponding `idVec3 Normalized() const` method. Many string methods were similarly defined as working on themselves, rather than returning a new copy with the operation performed on it — `ToLowerCase()`, `StripFileExtension()`, etc.
 
 ## Performance Implications
 
@@ -87,7 +87,7 @@ There will be a strong urge in many cases to just update a value in a complex st
 
 A significant mitigating factor is that performance today means parallel programming, which usually requires more copying and combining than in a single threaded environment even in the optimal performance case, so the penalty is smaller, while the complexity reduction and correctness benefits are correspondingly larger.
 
-When you start thinking about running, say, all the characters in a game world in parallel, it starts sinking in that the object-oriented approach of updating objects has some deep difficulties in parallel environments. Maybe if all of the object just referenced a read only version of the world state, and we copied over the updated version at the end of the frameâ€¦ Hey, wait a minuteâ€¦
+When you start thinking about running, say, all the characters in a game world in parallel, it starts sinking in that the object-oriented approach of updating objects has some deep difficulties in parallel environments. Maybe if all of the object just referenced a read only version of the world state, and we copied over the updated version at the end of the frame… Hey, wait a minute…
 
 ## Action Items
 
